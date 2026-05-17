@@ -1,6 +1,6 @@
 # Rory-
 Made with love
-<!DOCTYPE html>
+index.html
 <html lang="ar">
 
 <head>
