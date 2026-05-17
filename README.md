@@ -41,6 +41,14 @@ Made with love
 
 <img src="https://github.com/user-attachments/assets/39526e54-24ec-4d96-874b-c0a500205fa2" width="100%">
 
+<img src="https://github.com/user-attachments/assets/4c3948e8-720f-4b15-8329-f2d742934255" width="100%">
+
+<img src="https://github.com/user-attachments/assets/f8813269-f4b6-4055-9045-e114f588ec23" width="100%">
+
+<img src="https://github.com/user-attachments/assets/0eb10963-2b6b-433a-82cc-a55908e8bbc9" width="100%">
+
+<img src="https://github.com/user-attachments/assets/2c1667ae-31c7-412b-83df-fab9931cd8d8" width="100%">
+
 </div>
 
 </body>
